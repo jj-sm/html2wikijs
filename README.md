@@ -41,11 +41,11 @@ Output Markdown:
 | Cell 1   | Cell 2   |
 ```
 
-## Full Support Matrix
+## Style Support
 
 | Element         | Conversion              |
 |----------------|-------------------------|
 | Bold           | **text**                |
 | Italic         | *text*                  |
-| Images         | ![](image.png)          |
+| Images         | `![](image.png)`        |
 | Code           | ```code```              |
