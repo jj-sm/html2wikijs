@@ -338,7 +338,7 @@ def gdocs_to_wikijs(html_content):
 
                 md_img = f"![{alt_text}]({src})"
                 if centered:
-                    md_img += "{.is-centered}"
+                    md_img += "{.align-center}"
                 output.append(md_img + "\n")
                 current_element_is_header = False
             else: # Paragraph with an image but also other text, or image not direct child. Treat as normal P.
