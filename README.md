@@ -15,6 +15,9 @@ pip install beautifulsoup4
 wget https://raw.githubusercontent.com/jj-sm/html2wikijs/refs/heads/main/Script/main.py
 ```
 
+>[!CAUTION]
+>Check you have wget installed on your system
+
 Or
 
 Download the latest release on **Releases** section
